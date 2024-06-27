@@ -1,0 +1,49 @@
+.hourlyWrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  text-align: center;
+  padding: 1rem;
+  width: 160px;
+}
+
+.hourlyWrapper img {
+  width: 64px;
+}
+
+.hourlyHeader {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.hourlyHeadContent {
+  display: flex;
+  align-items: center;
+  /* margin-bottom: -10px; */
+}
+
+.hourlyTempWrap {
+  display: flex;
+  align-items: center;
+  font-size: 2.4rem;
+}
+
+.hourlyFeelWrap {
+  /* display: flex;
+  flex-direction: column;
+  align-items: flex-end; */
+  font-size: 0.8rem;
+}
+
+.hourlyRain {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-bottom: 1rem;
+}
+
+.hourlyRain img {
+  margin: 0 -10px;
+}

@@ -1,0 +1,482 @@
+{
+  "1000": {
+    "1": {
+      "text": "Sunny",
+      "icon": "clear-day.svg"
+    },
+    "0": {
+      "text": "Clear",
+      "icon": "clear-night.svg"
+    }
+  },
+  "1003": {
+    "1": {
+      "text": "Partly Cloudy",
+      "icon": "partly-cloudy-day.svg"
+    },
+    "0": {
+      "text": "Partly Cloudy",
+      "icon": "partly-cloudy-night.svg"
+    }
+  },
+  "1006": {
+    "1": {
+      "text": "Cloudy",
+      "icon": "partly-cloudy-day.svg"
+    },
+    "0": {
+      "text": "Cloudy",
+      "icon": "partly-cloudy-night.svg"
+    }
+  },
+  "1009": {
+    "1": {
+      "text": "Overcast",
+      "icon": "overcast-day.svg"
+    },
+    "0": {
+      "text": "Overcast",
+      "icon": "overcast-night.svg"
+    }
+  },
+  "1030": {
+    "1": {
+      "text": "Misty",
+      "icon": "fog-day.svg"
+    },
+    "0": {
+      "text": "Misty",
+      "icon": "fog-night.svg"
+    }
+  },
+  "1063": {
+    "1": {
+      "text": "Possible Patchy Rain",
+      "icon": "partly-cloudy-day-rain.svg"
+    },
+    "0": {
+      "text": "Possible Patchy Rain",
+      "icon": "partly-cloudy-night-rain.svg"
+    }
+  },
+  "1066": {
+    "1": {
+      "text": "Possible Patchy Snow",
+      "icon": "partly-cloudy-day-snow.svg"
+    },
+    "0": {
+      "text": "Possible Patchy Snow",
+      "icon": "partly-cloudy-night-snow.svg"
+    }
+  },
+  "1069": {
+    "1": {
+      "text": "Possible Patchy Sleet",
+      "icon": "partly-cloudy-day-sleet.svg"
+    },
+    "0": {
+      "text": "Possible Patchy Sleet",
+      "icon": "partly-cloudy-night-sleet.svg"
+    }
+  },
+  "1072": {
+    "1": {
+      "text": "Possible Patchy Freezing Drizzle",
+      "icon": "overcast-day-drizzle.svg"
+    },
+    "0": {
+      "text": "Possible Patchy Freezing Drizzle",
+      "icon": "overcast-night-drizzle.svg"
+    }
+  },
+  "1087": {
+    "1": {
+      "text": "Possible Thunderstorms",
+      "icon": "thunderstorms-day.svg"
+    },
+    "0": {
+      "text": "Possible Thunderstorms",
+      "icon": "thunderstorms-night.svg"
+    }
+  },
+  "1114": {
+    "1": {
+      "text": "Blowing Snow",
+      "icon": "wind-snow.svg"
+    },
+    "0": {
+      "text": "Blowing Snow",
+      "icon": "wind-snow.svg"
+    }
+  },
+  "1117": {
+    "1": {
+      "text": "Blizzard",
+      "icon": "extreme-snow.svg"
+    },
+    "0": {
+      "text": "Blizzard",
+      "icon": "extreme-snow.svg"
+    }
+  },
+  "1135": {
+    "1": {
+      "text": "Foggy",
+      "icon": "fog.svg"
+    },
+    "0": {
+      "text": "Foggy",
+      "icon": "fog.svg"
+    }
+  },
+  "1147": {
+    "1": {
+      "text": "Freezing Fog",
+      "icon": "partly-cloudy-day-fog.svg"
+    },
+    "0": {
+      "text": "Freezing Fog",
+      "icon": "partly-cloudy-night-fog.svg"
+    }
+  },
+  "1150": {
+    "1": {
+      "text": "Patchy Light Drizzle",
+      "icon": "partly-cloudy-day-drizzle.svg"
+    },
+    "0": {
+      "text": "Patchy Light Drizzle",
+      "icon": "partly-cloudy-night-drizzle.svg"
+    }
+  },
+  "1153": {
+    "1": {
+      "text": "Light Drizzle",
+      "icon": "partly-cloudy-day-drizzle.svg"
+    },
+    "0": {
+      "text": "Light Drizzle",
+      "icon": "partly-cloudy-night-drizzle.svg"
+    }
+  },
+  "1168": {
+    "1": {
+      "text": "Freezing Drizzle",
+      "icon": "overcast-day-drizzle.svg"
+    },
+    "0": {
+      "text": "Freezing Drizzle",
+      "icon": "overcast-night-drizzle.svg"
+    }
+  },
+  "1171": {
+    "1": {
+      "text": "Heavy Freezing Drizzle",
+      "icon": "extreme-day-drizzle.svg"
+    },
+    "0": {
+      "text": "Heavy Freezing Drizzle",
+      "icon": "extreme-night-drizzle.svg"
+    }
+  },
+  "1180": {
+    "1": {
+      "text": "Patchy Light Rain",
+      "icon": "partly-cloudy-day-rain.svg"
+    },
+    "0": {
+      "text": "Patchy Light Rain",
+      "icon": "partly-cloudy-night-rain.svg"
+    }
+  },
+  "1183": {
+    "1": {
+      "text": "Light Rain",
+      "icon": "partly-cloudy-day-rain.svg"
+    },
+    "0": {
+      "text": "Light Rain",
+      "icon": "partly-cloudy-night-rain.svg"
+    }
+  },
+  "1186": {
+    "1": {
+      "text": "Periodic Moderate Rain",
+      "icon": "overcast-day-rain.svg"
+    },
+    "0": {
+      "text": "Periodic Moderate Rain",
+      "icon": "overcast-night-rain.svg"
+    }
+  },
+  "1189": {
+    "1": {
+      "text": "Moderate Rain",
+      "icon": "overcast-day-rain.svg"
+    },
+    "0": {
+      "text": "Moderate Rain",
+      "icon": "overcast-night-rain.svg"
+    }
+  },
+  "1192": {
+    "1": {
+      "text": "Periodic Heavy Rain",
+      "icon": "extreme-day-rain.svg"
+    },
+    "0": {
+      "text": "Periodic Heavy Rain",
+      "icon": "extreme-night-rain.svg"
+    }
+  },
+  "1195": {
+    "1": {
+      "text": "Heavy Rain",
+      "icon": "extreme-day-rain.svg"
+    },
+    "0": {
+      "text": "Heavy Rain",
+      "icon": "extreme-night-rain.svg"
+    }
+  },
+  "1198": {
+    "1": {
+      "text": "Light Freezing Rain",
+      "icon": "partly-cloudy-day-rain.svg"
+    },
+    "0": {
+      "text": "Light Freezing Rain",
+      "icon": "partly-cloudy-night-rain.svg"
+    }
+  },
+  "1201": {
+    "1": {
+      "text": "Considerable Freezing Rain",
+      "icon": "overcast-day-rain.svg"
+    },
+    "0": {
+      "text": "Considerable Freezing Rain",
+      "icon": "overcast-night-rain.svg"
+    }
+  },
+  "1204": {
+    "1": {
+      "text": "Light Sleet",
+      "icon": "partly-cloudy-day-sleet.svg"
+    },
+    "0": {
+      "text": "Light Sleet",
+      "icon": "partly-cloudy-night-sleet.svg"
+    }
+  },
+  "1207": {
+    "1": {
+      "text": "Considerable Sleet",
+      "icon": "overcast-day-sleet.svg"
+    },
+    "0": {
+      "text": "Considerable Sleet",
+      "icon": "overcast-night-sleet.svg"
+    }
+  },
+  "1210": {
+    "1": {
+      "text": "Patchy Light Snow",
+      "icon": "partly-cloudy-day-snow.svg"
+    },
+    "0": {
+      "text": "Patchy Light Snow",
+      "icon": "partly-cloudy-night-snow.svg"
+    }
+  },
+  "1213": {
+    "1": {
+      "text": "Light Snow",
+      "icon": "partly-cloudy-day-snow.svg"
+    },
+    "0": {
+      "text": "Light Snow",
+      "icon": "partly-cloudy-night-snow.svg"
+    }
+  },
+  "1216": {
+    "1": {
+      "text": "Patchy Moderate Snow",
+      "icon": "overcast-day-snow.svg"
+    },
+    "0": {
+      "text": "Patchy Moderate Snow",
+      "icon": "overcast-night-snow.svg"
+    }
+  },
+  "1219": {
+    "1": {
+      "text": "Moderate Snow",
+      "icon": "overcast-day-snow.svg"
+    },
+    "0": {
+      "text": "Moderate Snow",
+      "icon": "overcast-night-snow.svg"
+    }
+  },
+  "1222": {
+    "1": {
+      "text": "Patchy Heavy Snow",
+      "icon": "extreme-day-snow.svg"
+    },
+    "0": {
+      "text": "Patchy Heavy Snow",
+      "icon": "extreme-night-snow.svg"
+    }
+  },
+  "1225": {
+    "1": {
+      "text": "Heavy Snow",
+      "icon": "extreme-day-snow.svg"
+    },
+    "0": {
+      "text": "Heavy Snow",
+      "icon": "extreme-night-snow.svg"
+    }
+  },
+  "1237": {
+    "1": {
+      "text": "Ice Pellets",
+      "icon": "partly-cloudy-day-hail.svg"
+    },
+    "0": {
+      "text": "Ice Pellets",
+      "icon": "partly-cloudy-night-hail.svg"
+    }
+  },
+  "1240": {
+    "1": {
+      "text": "Light Rain Showers",
+      "icon": "partly-cloudy-day-rain.svg"
+    },
+    "0": {
+      "text": "Light Rain Showers",
+      "icon": "partly-cloudy-day-rain.svg"
+    }
+  },
+  "1243": {
+    "1": {
+      "text": "Considerable Rain Showers",
+      "icon": "overcast-day-rain.svg"
+    },
+    "0": {
+      "text": "Considerable Rain Showers",
+      "icon": "overcast-night-rain.svg"
+    }
+  },
+  "1246": {
+    "1": {
+      "text": "Downpour",
+      "icon": "extreme-rain.svg"
+    },
+    "0": {
+      "text": "Downpour",
+      "icon": "extreme-rain.svg"
+    }
+  },
+  "1249": {
+    "1": {
+      "text": "Light Sleet Showers",
+      "icon": "partly-cloudy-day-sleet.svg"
+    },
+    "0": {
+      "text": "Light Sleet Showers",
+      "icon": "partly-cloudy-night-sleet.svg"
+    }
+  },
+  "1252": {
+    "1": {
+      "text": "Considerable Sleet Showers",
+      "icon": "overcast-day-sleet.svg"
+    },
+    "0": {
+      "text": "Considerable Sleet Showers",
+      "icon": "overcast-night-sleet.svg"
+    }
+  },
+  "1255": {
+    "1": {
+      "text": "Light Snow Showers",
+      "icon": "partly-cloudy-day-snow.svg"
+    },
+    "0": {
+      "text": "Light Snow Showers",
+      "icon": "partly-cloudy-night-snow.svg"
+    }
+  },
+  "1258": {
+    "1": {
+      "text": "Considerable Snow Showers",
+      "icon": "overcast-day-snow.svg"
+    },
+    "0": {
+      "text": "Considerable Snow Showers",
+      "icon": "overcast-night-snow.svg"
+    }
+  },
+  "1261": {
+    "1": {
+      "text": "Light Showers of Ice Pellets",
+      "icon": "partly-cloudy-day-hail.svg"
+    },
+    "0": {
+      "text": "Light Showers of Ice Pellets",
+      "icon": "partly-cloudy-night-hail.svg"
+    }
+  },
+  "1264": {
+    "1": {
+      "text": "Considerable Showers of Ice Pellets",
+      "icon": "overcast-day-hail.svg"
+    },
+    "0": {
+      "text": "Considerable Showers of Ice Pellets",
+      "icon": "overcast-night-hail.svg"
+    }
+  },
+  "1273": {
+    "1": {
+      "text": "Patchy Light Rain with Thunder",
+      "icon": "thunderstorms-day-rain.svg"
+    },
+    "0": {
+      "text": "Patchy Light Rain with Thunder",
+      "icon": "thunderstorms-night-rain.svg"
+    }
+  },
+  "1276": {
+    "1": {
+      "text": "Considerable Rain with Thunder",
+      "icon": "thunderstorms-day-overcast-rain.svg"
+    },
+    "0": {
+      "text": "Considerable Rain with Thunder",
+      "icon": "thunderstorms-night-overcast-rain.svg"
+    }
+  },
+  "1279": {
+    "1": {
+      "text": "Patchy Light Snow with Thunder",
+      "icon": "thunderstorms-day-snow.svg"
+    },
+    "0": {
+      "text": "Patchy Light Snow with Thunder",
+      "icon": "thunderstorms-night-snow.svg"
+    }
+  },
+  "1282": {
+    "1": {
+      "text": "Considerable Snow with Thunder",
+      "icon": "thunderstorms-day-overcast-snow.svg"
+    },
+    "0": {
+      "text": "Considerable Snow with Thunder",
+      "icon": "thunderstorms-night-overcast-snow.svg"
+    }
+  }
+}
