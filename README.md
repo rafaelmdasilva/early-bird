@@ -4,7 +4,7 @@
 
 Early Bird is a **React.js** application that provides real-time weather data (for any location) that dynamically updates the background with stunning images provided by an external **API**, relevant to the current weather conditions and time of day.
 
-This Application utilizes **Hooks**, **Reusable Components**, **CSS Modules** and an organized file structure.
+This Application utilizes **useState** and **useEffect** hooks, **Reusable Components**, **CSS Modules** and an organized file structure.
 
 ### Features
 
